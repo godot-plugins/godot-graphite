@@ -1,0 +1,21 @@
+{
+  "name": "godot-graphite",
+  "description": "Godot Plugin: Graphite Reactor and Producer",
+  "version": "0.1.0",
+  "author": "Olivier Bazoud <olivier.bazoud@gmail.com>",
+  "homepage": "https://github.com/godot-plugins/godot-graphite.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godot-plugins/godot-graphite.git"
+  },
+  "dependencies": {
+    "godot": "0.2.7",
+    "graphite": "0.0.6",
+    "utile": "0.1.7"
+  },
+  "main": "./lib/godot-graphite/index.js",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
+
